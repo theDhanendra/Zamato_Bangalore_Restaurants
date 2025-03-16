@@ -1,7 +1,7 @@
 # 🍽️ Zomato Data Analysis Project
 
 ## 📌 Project Overview
-This project analyzes **Zomato restaurant data** to uncover insights into restaurant distribution, cuisines, ratings, costs, and customer preferences. The goal is to help users understand dining trends and make informed decisions.
+This project is a comprehensive analysis of **Zomato restaurant data**, aimed at uncovering insights into restaurant distribution, cuisines, ratings, costs, and customer preferences. By leveraging data visualization and analytics tools, this project helps users understand dining trends, identify popular cuisines, and discover budget-friendly dining options. Whether you're a food enthusiast, a restaurant owner, or a data analyst, this project provides valuable insights into the food industry.
 
 ---
 
